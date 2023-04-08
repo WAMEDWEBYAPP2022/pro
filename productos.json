@@ -1,0 +1,23 @@
+
+{
+  "productos": [
+    {
+      "nombre": "Producto 1",
+      "precio": 10.99,
+      "imagen": "https://ejemplo.com/imagen1.jpg",
+      "codigo": "ABC123"
+    },
+    {
+      "nombre": "Producto 2",
+      "precio": 19.99,
+      "imagen": "https://ejemplo.com/imagen2.jpg",
+      "codigo": "DEF456"
+    },
+    {
+      "nombre": "Producto 3",
+      "precio": 5.99,
+      "imagen": "https://ejemplo.com/imagen3.jpg",
+      "codigo": "GHI789"
+    }
+  ]
+}
